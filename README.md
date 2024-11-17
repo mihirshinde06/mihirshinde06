@@ -21,8 +21,8 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for creating
 ## 💬 Let's Connect!
 I'm actively looking for my first full-time job in **Full-Stack Development**! If you're interested in collaborating or just want to chat about tech, feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/mihirshinde)
-- [Email](mailto:mihir.shinde@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mihir-shinde-676679253)
+- [Email](mailto:shindemihir0606@gmail.com)
 
 ---
 
